@@ -1,4 +1,4 @@
-# Luhn-Algorithm- 
+# Luhn-Algorithm-
 Uses the luhn algorithm to verify credit cards
 First, the code convert the number string, uses ruby's bulit in to_s method to convert my int to a string,the uses split('') to split my string into individual numbers
 Next, then I convert each element in the array into numbers.
